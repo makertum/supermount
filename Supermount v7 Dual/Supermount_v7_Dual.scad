@@ -1,5 +1,5 @@
              //////////////////////////////////////////////////////////////////////
-            // Supermount v7 Single                                             //
+            // Supermount v7 Dual                                               //
            // super practical super customizable mount for E3Dv6               //
           // and similar groove mount hotends and standard capacitive         //
          // sensors, compatible to the Prusa i3 Einstein Rework's            //
